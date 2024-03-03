@@ -33,7 +33,7 @@ header{
     padding: 23px 13%;
     transition: all .40s ease;
 }
-.logo{
+.logo img{
     height: auto;
     width: 160px;
     max-width: 100%;

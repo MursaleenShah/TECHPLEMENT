@@ -3,7 +3,7 @@
 Learnly is a static website designed for selling online courses. It is built using HTML, CSS, and a touch of JavaScript to provide a seamless browsing experience. The website is designed to be responsive, ensuring optimal viewing and interaction across various devices and screen sizes.
 ![Learnly Screenshort](/assets/images/homepage.png)
 
-##Features
+## Features
 1. Responsive Design: The website layout adjusts dynamically to provide an optimal viewing experience across a wide range of devices, including desktops, tablets, and smartphones.
 ![Responsive Design](/assets/images/Responsive-Design.png)
 
